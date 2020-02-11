@@ -1,0 +1,16 @@
+div#vacio
+{
+  
+    width: 50%;
+    height: 125px;
+    background: rgb(23, 83, 23);
+}
+.contentbox{
+    -moz-box-sizing: content-box;
+    
+}
+p{background-color: coral;}
+
+div{
+    text-align: center;
+}
